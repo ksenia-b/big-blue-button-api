@@ -1,0 +1,2 @@
+queryString = "abc"
+sharedSecret = "afaowehfdkl"
